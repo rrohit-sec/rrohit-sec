@@ -1,12 +1,3 @@
-
-```
-[  ACCESS GRANTED  ]
-```
-
-</div>
-
----
-
 ```bash
 ┌──(rohit㉿phantomcipher)-[~/profile]
 └─# cat README.md
@@ -65,32 +56,6 @@ me = Hacker()
 
 ---
 
-## 📊 `> systemctl status hacking`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&ring_color=00ff00" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=dark&hide_border=true&background=000000&stroke=00ff00&ring=00ff00&fire=ff0000&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&currStreakNum=00ff00&dates=00ff00" width="48%"/>
-
-</div>
-
----
-
----
-
-## 🎯 `> nmap -sV certifications`
-
-```
-PORT      STATE  SERVICE         VERSION
-22/tcp    open   OSCP           Offensive Security Certified Pro
-443/tcp   open   CRTP           Certified Red Team Professional
-445/tcp   open   CEH            Certified Ethical Hacker
-1337/tcp  open   eWPT           Web App Penetration Tester
-3389/tcp  open   PNPT           Practical Network Pen Tester
-8080/tcp  open   OSEP           [Loading...████████░░ 80%]
-```
-
----
 
 ## 🗂️ `> ls -la /root/projects/`
 
