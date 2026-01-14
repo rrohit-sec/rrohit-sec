@@ -1,36 +1,51 @@
-# Hi, I'm [Name] 👋
+# Hi, I'm Alex 👋
 
-## 🛡️ Cybersecurity Professional
+I'm a cybersecurity engineer focused on **[blue team / red team / security automation / application security]**.  
+I enjoy building security tools, labs, and sharing what I learn.
 
-### 🔧 Skills & Tools
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/-Metasploit-2A2A2A?style=flat&logo=metasploit&logoColor=white)
+---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
+## 🔐 Focus Areas
 
-### 🏆 Certifications
-- OSCP (Offensive Security Certified Professional)
-- CEH (Certified Ethical Hacker)
-- CompTIA Security+
+- Threat detection & hunting (SIEM, log analysis, detection engineering)
+- Incident response & forensic analysis
+- Security automation (Python, PowerShell, Bash)
+- Cloud security (AWS / Azure / GCP – choose yours)
+- Web application security & secure coding
 
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-<!--
-**rrohit-sec/rrohit-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python, Bash, PowerShell, Go  
+**Security:** Suricata, Zeek, Wireshark, Sigma, YARA, Nmap, Burp Suite  
+**Cloud / Infra:** Docker, Kubernetes, Terraform, Ansible  
+**Monitoring / SIEM:** Elastic, Splunk, Wazuh, Graylog  
+**OS:** Linux (Ubuntu, Kali), Windows
+
+---
+
+## 📂 Highlighted Projects
+
+| Project | Description | Tech / Focus |
+|--------|-------------|--------------|
+| [`threat-hunting-lab`](https://github.com/username/threat-hunting-lab) | Local lab to practice detection & hunting using simulated attacks in a safe environment | Terraform, Ansible, Wazuh, Zeek |
+| [`blue-team-scripts`](https://github.com/username/blue-team-scripts) | Scripts for log parsing, IOC enrichment, and basic detection tasks | Python, Bash |
+| [`ctf-writeups`](https://github.com/username/ctf-writeups) | Writeups for CTF challenges (web, crypto, forensics, reversing) – all legal & educational | Markdown |
+| [`security-automation`](https://github.com/username/security-automation) | Automation scripts for common security tasks (log collection, enrichment, alerting) | Python |
+
+---
+
+## 🎓 Learning & Certifications
+
+- Studying: OSCP / eJPT / Security+ / CISSP (list what applies)
+- Completed: [Your current certs or courses]
+
+---
+
+## 📫 Contact
+
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourname/)
+- Email: `youremail@example.com`
+
+> All research and tools here are for **defensive, educational, and legal** use only.
